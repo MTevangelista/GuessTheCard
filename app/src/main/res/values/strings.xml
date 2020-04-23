@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adivinhação</string>
+    <string name="loss_message">VOCÊ ESCOLHEU O CORINGA! PERDEU!</string>
+    <string name="victory_message">VOCÊ ESCOLHEU O ÁS! PARABÉNS!</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="confirm">Confirmar</string>
+    <string name="select_card">Selecione uma carta</string>
+    <string name="no_card_selected">Você não selecionou uma carta.</string>
+</resources>
